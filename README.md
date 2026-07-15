@@ -1,4 +1,4 @@
-<img alt="dpinlol's GitHub profile" src="dark_mode.svg" width="100%" />
+![dpinlol's GitHub profile](dark_mode.svg)
 
 ## Hi there 👋
 
