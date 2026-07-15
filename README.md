@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpinlol/dpinlol/main/dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpinlol/dpinlol/main/light_mode.svg" />
-  <img alt="dpinlol's GitHub profile" src="https://raw.githubusercontent.com/dpinlol/dpinlol/main/dark_mode.svg" width="100%" />
-</picture>
+![dpinlol's GitHub profile](dark_mode.svg)
 
 ## Hi there 👋
 
